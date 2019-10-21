@@ -1,0 +1,11 @@
+/home/jeetendra/Documents/Source/Repos/LeetCode/dist-candies-1103/obj/Debug/netcoreapp3.0/dist-candies-1103.csprojAssemblyReference.cache
+/home/jeetendra/Documents/Source/Repos/LeetCode/dist-candies-1103/obj/Debug/netcoreapp3.0/dist-candies-1103.AssemblyInfoInputs.cache
+/home/jeetendra/Documents/Source/Repos/LeetCode/dist-candies-1103/obj/Debug/netcoreapp3.0/dist-candies-1103.AssemblyInfo.cs
+/home/jeetendra/Documents/Source/Repos/LeetCode/dist-candies-1103/bin/Debug/netcoreapp3.0/dist-candies-1103
+/home/jeetendra/Documents/Source/Repos/LeetCode/dist-candies-1103/bin/Debug/netcoreapp3.0/dist-candies-1103.deps.json
+/home/jeetendra/Documents/Source/Repos/LeetCode/dist-candies-1103/bin/Debug/netcoreapp3.0/dist-candies-1103.runtimeconfig.json
+/home/jeetendra/Documents/Source/Repos/LeetCode/dist-candies-1103/bin/Debug/netcoreapp3.0/dist-candies-1103.runtimeconfig.dev.json
+/home/jeetendra/Documents/Source/Repos/LeetCode/dist-candies-1103/bin/Debug/netcoreapp3.0/dist-candies-1103.dll
+/home/jeetendra/Documents/Source/Repos/LeetCode/dist-candies-1103/bin/Debug/netcoreapp3.0/dist-candies-1103.pdb
+/home/jeetendra/Documents/Source/Repos/LeetCode/dist-candies-1103/obj/Debug/netcoreapp3.0/dist-candies-1103.dll
+/home/jeetendra/Documents/Source/Repos/LeetCode/dist-candies-1103/obj/Debug/netcoreapp3.0/dist-candies-1103.pdb

@@ -1,0 +1,11 @@
+/home/jeetendra/Documents/Source/Repos/LeetCode/LengthOfLongestSubstring/obj/Debug/netcoreapp3.0/LengthOfLongestSubstring.csprojAssemblyReference.cache
+/home/jeetendra/Documents/Source/Repos/LeetCode/LengthOfLongestSubstring/obj/Debug/netcoreapp3.0/LengthOfLongestSubstring.AssemblyInfoInputs.cache
+/home/jeetendra/Documents/Source/Repos/LeetCode/LengthOfLongestSubstring/obj/Debug/netcoreapp3.0/LengthOfLongestSubstring.AssemblyInfo.cs
+/home/jeetendra/Documents/Source/Repos/LeetCode/LengthOfLongestSubstring/bin/Debug/netcoreapp3.0/LengthOfLongestSubstring
+/home/jeetendra/Documents/Source/Repos/LeetCode/LengthOfLongestSubstring/bin/Debug/netcoreapp3.0/LengthOfLongestSubstring.deps.json
+/home/jeetendra/Documents/Source/Repos/LeetCode/LengthOfLongestSubstring/bin/Debug/netcoreapp3.0/LengthOfLongestSubstring.runtimeconfig.json
+/home/jeetendra/Documents/Source/Repos/LeetCode/LengthOfLongestSubstring/bin/Debug/netcoreapp3.0/LengthOfLongestSubstring.runtimeconfig.dev.json
+/home/jeetendra/Documents/Source/Repos/LeetCode/LengthOfLongestSubstring/bin/Debug/netcoreapp3.0/LengthOfLongestSubstring.dll
+/home/jeetendra/Documents/Source/Repos/LeetCode/LengthOfLongestSubstring/bin/Debug/netcoreapp3.0/LengthOfLongestSubstring.pdb
+/home/jeetendra/Documents/Source/Repos/LeetCode/LengthOfLongestSubstring/obj/Debug/netcoreapp3.0/LengthOfLongestSubstring.dll
+/home/jeetendra/Documents/Source/Repos/LeetCode/LengthOfLongestSubstring/obj/Debug/netcoreapp3.0/LengthOfLongestSubstring.pdb

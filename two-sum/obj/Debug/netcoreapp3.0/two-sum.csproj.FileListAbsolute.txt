@@ -1,0 +1,11 @@
+/home/jeetendra/Documents/Source/Repos/LeetCode/two-sum/obj/Debug/netcoreapp3.0/two-sum.csprojAssemblyReference.cache
+/home/jeetendra/Documents/Source/Repos/LeetCode/two-sum/obj/Debug/netcoreapp3.0/two-sum.AssemblyInfoInputs.cache
+/home/jeetendra/Documents/Source/Repos/LeetCode/two-sum/obj/Debug/netcoreapp3.0/two-sum.AssemblyInfo.cs
+/home/jeetendra/Documents/Source/Repos/LeetCode/two-sum/bin/Debug/netcoreapp3.0/two-sum
+/home/jeetendra/Documents/Source/Repos/LeetCode/two-sum/bin/Debug/netcoreapp3.0/two-sum.deps.json
+/home/jeetendra/Documents/Source/Repos/LeetCode/two-sum/bin/Debug/netcoreapp3.0/two-sum.runtimeconfig.json
+/home/jeetendra/Documents/Source/Repos/LeetCode/two-sum/bin/Debug/netcoreapp3.0/two-sum.runtimeconfig.dev.json
+/home/jeetendra/Documents/Source/Repos/LeetCode/two-sum/bin/Debug/netcoreapp3.0/two-sum.dll
+/home/jeetendra/Documents/Source/Repos/LeetCode/two-sum/bin/Debug/netcoreapp3.0/two-sum.pdb
+/home/jeetendra/Documents/Source/Repos/LeetCode/two-sum/obj/Debug/netcoreapp3.0/two-sum.dll
+/home/jeetendra/Documents/Source/Repos/LeetCode/two-sum/obj/Debug/netcoreapp3.0/two-sum.pdb

@@ -1,0 +1,11 @@
+/home/jeetendra/Documents/Source/Repos/LeetCode/test2/bin/Debug/netcoreapp3.0/test2
+/home/jeetendra/Documents/Source/Repos/LeetCode/test2/bin/Debug/netcoreapp3.0/test2.deps.json
+/home/jeetendra/Documents/Source/Repos/LeetCode/test2/bin/Debug/netcoreapp3.0/test2.runtimeconfig.json
+/home/jeetendra/Documents/Source/Repos/LeetCode/test2/bin/Debug/netcoreapp3.0/test2.runtimeconfig.dev.json
+/home/jeetendra/Documents/Source/Repos/LeetCode/test2/bin/Debug/netcoreapp3.0/test2.dll
+/home/jeetendra/Documents/Source/Repos/LeetCode/test2/bin/Debug/netcoreapp3.0/test2.pdb
+/home/jeetendra/Documents/Source/Repos/LeetCode/test2/obj/Debug/netcoreapp3.0/test2.csprojAssemblyReference.cache
+/home/jeetendra/Documents/Source/Repos/LeetCode/test2/obj/Debug/netcoreapp3.0/test2.AssemblyInfoInputs.cache
+/home/jeetendra/Documents/Source/Repos/LeetCode/test2/obj/Debug/netcoreapp3.0/test2.AssemblyInfo.cs
+/home/jeetendra/Documents/Source/Repos/LeetCode/test2/obj/Debug/netcoreapp3.0/test2.dll
+/home/jeetendra/Documents/Source/Repos/LeetCode/test2/obj/Debug/netcoreapp3.0/test2.pdb

@@ -1,0 +1,11 @@
+/home/jeetendra/Documents/Source/Repos/LeetCode/merge-lists/bin/Debug/netcoreapp3.0/merge-lists
+/home/jeetendra/Documents/Source/Repos/LeetCode/merge-lists/bin/Debug/netcoreapp3.0/merge-lists.deps.json
+/home/jeetendra/Documents/Source/Repos/LeetCode/merge-lists/bin/Debug/netcoreapp3.0/merge-lists.runtimeconfig.json
+/home/jeetendra/Documents/Source/Repos/LeetCode/merge-lists/bin/Debug/netcoreapp3.0/merge-lists.runtimeconfig.dev.json
+/home/jeetendra/Documents/Source/Repos/LeetCode/merge-lists/bin/Debug/netcoreapp3.0/merge-lists.dll
+/home/jeetendra/Documents/Source/Repos/LeetCode/merge-lists/bin/Debug/netcoreapp3.0/merge-lists.pdb
+/home/jeetendra/Documents/Source/Repos/LeetCode/merge-lists/obj/Debug/netcoreapp3.0/merge-lists.csprojAssemblyReference.cache
+/home/jeetendra/Documents/Source/Repos/LeetCode/merge-lists/obj/Debug/netcoreapp3.0/merge-lists.AssemblyInfoInputs.cache
+/home/jeetendra/Documents/Source/Repos/LeetCode/merge-lists/obj/Debug/netcoreapp3.0/merge-lists.AssemblyInfo.cs
+/home/jeetendra/Documents/Source/Repos/LeetCode/merge-lists/obj/Debug/netcoreapp3.0/merge-lists.dll
+/home/jeetendra/Documents/Source/Repos/LeetCode/merge-lists/obj/Debug/netcoreapp3.0/merge-lists.pdb

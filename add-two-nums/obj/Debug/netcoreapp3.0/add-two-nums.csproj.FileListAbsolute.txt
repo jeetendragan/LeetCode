@@ -1,0 +1,11 @@
+/home/jeetendra/Documents/Source/Repos/LeetCode/add-two-nums/bin/Debug/netcoreapp3.0/add-two-nums
+/home/jeetendra/Documents/Source/Repos/LeetCode/add-two-nums/bin/Debug/netcoreapp3.0/add-two-nums.deps.json
+/home/jeetendra/Documents/Source/Repos/LeetCode/add-two-nums/bin/Debug/netcoreapp3.0/add-two-nums.runtimeconfig.json
+/home/jeetendra/Documents/Source/Repos/LeetCode/add-two-nums/bin/Debug/netcoreapp3.0/add-two-nums.runtimeconfig.dev.json
+/home/jeetendra/Documents/Source/Repos/LeetCode/add-two-nums/bin/Debug/netcoreapp3.0/add-two-nums.dll
+/home/jeetendra/Documents/Source/Repos/LeetCode/add-two-nums/bin/Debug/netcoreapp3.0/add-two-nums.pdb
+/home/jeetendra/Documents/Source/Repos/LeetCode/add-two-nums/obj/Debug/netcoreapp3.0/add-two-nums.csprojAssemblyReference.cache
+/home/jeetendra/Documents/Source/Repos/LeetCode/add-two-nums/obj/Debug/netcoreapp3.0/add-two-nums.AssemblyInfoInputs.cache
+/home/jeetendra/Documents/Source/Repos/LeetCode/add-two-nums/obj/Debug/netcoreapp3.0/add-two-nums.AssemblyInfo.cs
+/home/jeetendra/Documents/Source/Repos/LeetCode/add-two-nums/obj/Debug/netcoreapp3.0/add-two-nums.dll
+/home/jeetendra/Documents/Source/Repos/LeetCode/add-two-nums/obj/Debug/netcoreapp3.0/add-two-nums.pdb
