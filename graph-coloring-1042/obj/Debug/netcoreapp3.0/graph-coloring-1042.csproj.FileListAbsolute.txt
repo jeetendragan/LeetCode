@@ -1,0 +1,11 @@
+/home/jeetendra/Documents/Source/Repos/LeetCode/graph-coloring-1042/obj/Debug/netcoreapp3.0/graph-coloring-1042.csprojAssemblyReference.cache
+/home/jeetendra/Documents/Source/Repos/LeetCode/graph-coloring-1042/obj/Debug/netcoreapp3.0/graph-coloring-1042.AssemblyInfoInputs.cache
+/home/jeetendra/Documents/Source/Repos/LeetCode/graph-coloring-1042/obj/Debug/netcoreapp3.0/graph-coloring-1042.AssemblyInfo.cs
+/home/jeetendra/Documents/Source/Repos/LeetCode/graph-coloring-1042/bin/Debug/netcoreapp3.0/graph-coloring-1042
+/home/jeetendra/Documents/Source/Repos/LeetCode/graph-coloring-1042/bin/Debug/netcoreapp3.0/graph-coloring-1042.deps.json
+/home/jeetendra/Documents/Source/Repos/LeetCode/graph-coloring-1042/bin/Debug/netcoreapp3.0/graph-coloring-1042.runtimeconfig.json
+/home/jeetendra/Documents/Source/Repos/LeetCode/graph-coloring-1042/bin/Debug/netcoreapp3.0/graph-coloring-1042.runtimeconfig.dev.json
+/home/jeetendra/Documents/Source/Repos/LeetCode/graph-coloring-1042/bin/Debug/netcoreapp3.0/graph-coloring-1042.dll
+/home/jeetendra/Documents/Source/Repos/LeetCode/graph-coloring-1042/bin/Debug/netcoreapp3.0/graph-coloring-1042.pdb
+/home/jeetendra/Documents/Source/Repos/LeetCode/graph-coloring-1042/obj/Debug/netcoreapp3.0/graph-coloring-1042.dll
+/home/jeetendra/Documents/Source/Repos/LeetCode/graph-coloring-1042/obj/Debug/netcoreapp3.0/graph-coloring-1042.pdb

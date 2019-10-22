@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "graph-coloring-1042/1.0.0": {
+        "runtime": {
+          "graph-coloring-1042.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "graph-coloring-1042/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/dist-candies-1103/bin/Debug/netcoreapp3.0/dist-candies-1103.dll",
+            "program": "${workspaceFolder}/graph-coloring-1042/bin/Debug/netcoreapp3.0/graph-coloring-1042.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/dist-candies-1103/",
+            "cwd": "${workspaceFolder}/graph-coloring-1042/",
             "console": "internalConsole",
             "stopAtEntry": false
         },
