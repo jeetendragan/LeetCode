@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/buy_sell_stock_122/bin/Debug/netcoreapp3.0/buy_sell_stock_122.dll",
+            "program": "${workspaceFolder}/mock-1/bin/Debug/netcoreapp3.0/mock-1.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/buy_sell_stock_122/",
+            "cwd": "${workspaceFolder}/mock-1/",
             "console": "internalConsole",
             "stopAtEntry": false
         },
