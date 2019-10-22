@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/graph-coloring-1042/bin/Debug/netcoreapp3.0/graph-coloring-1042.dll",
+            "program": "${workspaceFolder}/buy_sell_stock_122/bin/Debug/netcoreapp3.0/buy_sell_stock_122.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/graph-coloring-1042/",
+            "cwd": "${workspaceFolder}/buy_sell_stock_122/",
             "console": "internalConsole",
             "stopAtEntry": false
         },
