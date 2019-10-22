@@ -3,6 +3,15 @@ using System.Collections.Generic;
 
 namespace graph_coloring_1042
 {
+
+    public class TreeNode {
+        public int val;
+        public TreeNode left;
+        public TreeNode right;
+        public TreeNode(int x) { val = x; }
+    }
+
+
     class Program
     {
         static void Main(string[] args)
@@ -17,11 +26,51 @@ namespace graph_coloring_1042
             // paths[4] = new int[]{1, 2};
             // paths[5] = new int[]{1, 5};
             
-            int[] assignemtn = GardenNoAdj(N, paths);
-            foreach(int i in assignemtn){
-                Console.Write(i+",");
-            }
+            // int[] assignemtn = GardenNoAdj(N, paths);
+            // foreach(int i in assignemtn){
+            //     Console.Write(i+",");
+            // }
+            
         }
+
+        public static TreeNode SortedArrayToBST(int[] nums) {
+            TreeNode root;
+            BuildBSTFrom(nums, 0, nums.Length-1, root);
+        }
+
+        public static void BuildBSTFrom(int[] nums, int left, int right, TreeNode root){
+            if(left > right)
+                return;
+            
+            int mid = (left + right) / 2;
+            root = new TreeNode(nums[mid]);
+            BuildBSTFrom(nums, left, mid-1, root.left);
+            BuildBSTFrom(nums, mid+1, right, root.right);
+        }
+
+        public static IList<IList<int>> BuildLevelOrder(TreeNode root, int level, 
+                IList<IList<int>> levelOrderList)
+        {
+            if(root == null)
+                return;
+            
+            if(levelOrderList.Count < level){
+                levelOrderList.Add(new List<int>(){root.val});
+            }else{
+                levelOrderList[level-1].Add(root.val);
+            }
+
+            BuildLevelOrder(root.left, level+1, levelOrderList);
+            BuildLevelOrder(root.right, level+1, levelOrderList);
+        }
+
+        // public static void BuilderLevelOrder(TreeNode root, IList<IList<int>> levelOrderList){
+        //     Build(root, levelOrderList, 0);
+        // }
+
+        // public static void Build(TreeNode root, IList<IList<int>> levelOrder, int level){
+            
+        // }
 
         public class Node{
             public int id;
