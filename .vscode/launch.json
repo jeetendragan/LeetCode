@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/mock-1/bin/Debug/netcoreapp3.0/mock-1.dll",
+            "program": "${workspaceFolder}/Mock-2/bin/Debug/netcoreapp3.0/Mock-2.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/mock-1/",
+            "cwd": "${workspaceFolder}/Mock-2/",
             "console": "internalConsole",
             "stopAtEntry": false
         },
