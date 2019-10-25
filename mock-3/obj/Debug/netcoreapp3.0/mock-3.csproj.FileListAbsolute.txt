@@ -1,0 +1,11 @@
+/home/jeetendra/Documents/Source/Repos/LeetCode/mock-3/obj/Debug/netcoreapp3.0/mock-3.csprojAssemblyReference.cache
+/home/jeetendra/Documents/Source/Repos/LeetCode/mock-3/obj/Debug/netcoreapp3.0/mock-3.AssemblyInfoInputs.cache
+/home/jeetendra/Documents/Source/Repos/LeetCode/mock-3/obj/Debug/netcoreapp3.0/mock-3.AssemblyInfo.cs
+/home/jeetendra/Documents/Source/Repos/LeetCode/mock-3/bin/Debug/netcoreapp3.0/mock-3
+/home/jeetendra/Documents/Source/Repos/LeetCode/mock-3/bin/Debug/netcoreapp3.0/mock-3.deps.json
+/home/jeetendra/Documents/Source/Repos/LeetCode/mock-3/bin/Debug/netcoreapp3.0/mock-3.runtimeconfig.json
+/home/jeetendra/Documents/Source/Repos/LeetCode/mock-3/bin/Debug/netcoreapp3.0/mock-3.runtimeconfig.dev.json
+/home/jeetendra/Documents/Source/Repos/LeetCode/mock-3/bin/Debug/netcoreapp3.0/mock-3.dll
+/home/jeetendra/Documents/Source/Repos/LeetCode/mock-3/bin/Debug/netcoreapp3.0/mock-3.pdb
+/home/jeetendra/Documents/Source/Repos/LeetCode/mock-3/obj/Debug/netcoreapp3.0/mock-3.dll
+/home/jeetendra/Documents/Source/Repos/LeetCode/mock-3/obj/Debug/netcoreapp3.0/mock-3.pdb
